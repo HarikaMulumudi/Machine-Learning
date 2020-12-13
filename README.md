@@ -1,6 +1,6 @@
 # Comparative analysis of the performance of Generative Adversarial Network (GAN) vs Variational Autoencoder (VAE) On MNIST data Classification
-Task to Accomplish: The task to accomplish in this project is to classify the images of handwritten digits into one of the ten classes, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Compare the performance of Generative Adversarial Network and Variational Autoencoder.
-How I procured the data:
+<b>Task to Accomplish:</b> The task to accomplish in this project is to classify the images of handwritten digits into one of the ten classes, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. Compared the performance of Generative Adversarial Network and Variational Autoencoder. <br> <br>
+<b>How I procured the data:</b>
 The data is available in the website http://yann.lecun.com/exdb/mnist/ <br>
 <br>
 <b>There are four files:</b> <br>
