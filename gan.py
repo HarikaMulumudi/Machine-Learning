@@ -1,7 +1,7 @@
 from keras.datasets.mnist import load_data
 from matplotlib import pyplot
 
-# NIST data loading
+# MNIST data loading
 (trainX, trainy), (testX, testy) = load_data()
 trainX = trainX[:5000]
 print('Train', trainX.shape, trainy.shape)
